@@ -2,7 +2,5 @@ class hello{
 	public static void main(String args[]){
 		System.out.println("Hello World");
 		System.out.println("Hi. Sample file.");
-		System.out.println("Hi. This is a sample code.");
-
 	}
 }
